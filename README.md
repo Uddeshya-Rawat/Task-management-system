@@ -35,16 +35,3 @@ Tech Used
 6. REACT.JS
 
 
-ScreenShots
-
-1. Login 
-
-[alt text](<Screenshot 2024-11-12 145109.png>)
-
-
-2. Employee Dashbooard
-![alt text](<Screenshot 2024-11-12 145040.png>)!
-
-
-3. Admin Dashboard
-![alt text](<Screenshot 2024-11-12 145212.png>)
