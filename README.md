@@ -1,11 +1,11 @@
+
+Task Management System
 Overview
 The Task Management System is a web-based application that allows users to manage tasks efficiently. It provides two primary interfaces:
 
 Admin Dashboard: For administrators to manage users, tasks, and perform other administrative functions.
 User Dashboard: For regular users to manage their tasks and view relevant task-related information.
 The application features a login page to authenticate users before granting access to the dashboards. It supports user roles, with different access rights for admins and regular users.
-
-
 
 Features
 1. Login Page
@@ -27,20 +27,24 @@ Assign tasks to users (admin only).
 Set deadlines and priorities for each task.
 
 
-
-Tech Stack 
-1.HTML
-2.CSS
-3.JAVASCRIPT
-4.REACT.JS
-
-
+Tech Used
+1. HTML
+2. CSS
+3. TAILWIND CSS
+4. JAVSCRIPT
+6. REACT.JS
 
 
+ScreenShots
+
+1. Login 
+
+[alt text](<Screenshot 2024-11-12 145109.png>)
 
 
+2. Employee Dashbooard
+![alt text](<Screenshot 2024-11-12 145040.png>)!
 
 
-
-
-
+3. Admin Dashboard
+![alt text](<Screenshot 2024-11-12 145212.png>)
